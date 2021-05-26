@@ -7,7 +7,7 @@ The files in this repository were used to configure the network depicted below.
 
 ![Diagram](https://github.com/jbooker2020/Elk-Stack-Project/blob/main/Diagrams/Screen%20Shot%202021-05-20%20at%2011.14.09%20PM.png)
 
-These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the _____ file may be used to install only certain pieces of it, such as Filebeat.
+These files have been tested and used to generate a live ELK deployment on Azure. They can be used to either recreate the entire deployment pictured above. Alternatively, select portions of the YAML file may be used to install only certain pieces of it, such as Filebeat.
 
 ![Elk](https://github.com/jbooker2020/Elk-Stack-Project/blob/main/Ansible/Elk)
 
