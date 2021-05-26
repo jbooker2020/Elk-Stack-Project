@@ -29,7 +29,7 @@ Load balancing ensures that the application will be highly available, in additio
   
   - Load balancers protect the system from DDoS attack by shifting attack traffic.The advantage of the jump box is to give access to the user from a single node that                could be  secured and monitored
 
-Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the _____ and system _____.
+Integrating an ELK server allows users to easily monitor the vulnerable VMs for changes to the jumpbox and system network.
 - _TODO: What does Filebeat watch for?_
 - _TODO: What does Metricbeat record?_
 
