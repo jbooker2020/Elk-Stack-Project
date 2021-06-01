@@ -1,0 +1,5 @@
+#!/bin/bash
+
+sudo apt install lynis
+Man lynis
+sudo lynis audit system
