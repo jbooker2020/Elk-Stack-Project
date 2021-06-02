@@ -117,7 +117,10 @@ SSH into the control node and follow the steps below:
 TODO: Answer the following questions to fill in the blanks:_
 Which file is the playbook? Where do you copy it?
  - .yml files are playbook files that can be run with Ansible. Typically, it's copied into a container where ansible is installed to be deployed
-Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?
+
+Which file do you update to make Ansible run the playbook on a specific machine? 
+
+How do I specify which machine to install the ELK server on versus which to install Filebeat on?
 - edit the /etc/ansible/host file to add webserver/elkserver ip addresses
 
 - _Which URL do you navigate to in order to check that the ELK server is running?
