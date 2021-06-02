@@ -121,8 +121,8 @@ Which file is the playbook? Where do you copy it?
 Which file do you update to make Ansible run the playbook on a specific machine? How do I specify which machine to install the ELK server on versus which to install Filebeat on?
 - edit the /etc/ansible/host file to add webserver/elkserver ip addresses
 
-- _Which URL do you navigate to in order to check that the ELK server is running?
-     http://20.186.43.145/:5601/app/kibana
+Which URL do you navigate to in order to check that the ELK server is running?
+- http://20.186.43.145/:5601/app/kibana
  
 As a **Bonus**, provide the specific commands the user will need to run to download the playbook, update the files, etc.
 - sudo docker start cool_tharp
