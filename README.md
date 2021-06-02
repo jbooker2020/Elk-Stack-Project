@@ -110,8 +110,8 @@ Metricbeat allows the ELK Server to monitor valuable usage metrics like CPU usag
 In order to use the playbook, you will need to have an Ansible control node already configured. Assuming you have such a control node provisioned: 
 
 SSH into the control node and follow the steps below:
-- Copy the _____ file to _____.
-- Update the _____ file to include...
+- Copy the playbook file to ansible.
+- Update the host file to include elk and webservers.
 - Run the playbook, and navigate to kibana to check that the installation worked as expected.
 
 TODO: Answer the following questions to fill in the blanks:_
